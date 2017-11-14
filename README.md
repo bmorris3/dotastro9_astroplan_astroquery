@@ -1,5 +1,7 @@
-# dotastro9_astroplan_astroquery
-Tutorials on astroplan and astroquery for #dotastro9 at Cape Town, South Africa
+# A brief introduction to Astropy affiliated packages
+[![shield](http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat)](http://www.astropy.org/)
+
+Tutorials on astroplan and astroquery for [.Astronomy 9](http://dotastronomy9.saao.ac.za) in Cape Town, South Africa
 
 ### Dependencies
 
