@@ -13,3 +13,10 @@ or via pip:
 ```bash
 pip install astroquery astroplan
 ```
+
+### Downloading this repository
+If you have git, type: 
+```bash
+git clone git@github.com:bmorris3/dotastro9_astroplan_astroquery.git
+```
+otherwise you can download this repository as a ZIP archive by [clicking here](https://github.com/bmorris3/dotastro9_astroplan_astroquery/archive/master.zip).
